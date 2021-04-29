@@ -19,9 +19,8 @@ PGP: DC9BB4C4B964290F
 
 Fingerprint: 3BD8 CB76 F7BE 879B 7257 3AF9 DC9B B4C4 B964 290F 
 
-To contact me:
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natanfdecastro/) 
+Contact me:
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natanfdecastro/) 
 
 
 ---
@@ -35,6 +34,5 @@ To contact me:
 
 Tech I like and use:
 
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 

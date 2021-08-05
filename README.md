@@ -22,7 +22,7 @@ Fingerprint: 3BD8 CB76 F7BE 879B 7257 3AF9 DC9B B4C4 B964 290F
 Contact me:
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natanfdecastro/) 
 
-
+<!--
 ---
 **My Github Stats:** 
 <p align = "center">
@@ -35,4 +35,4 @@ Contact me:
 Tech I like and use:
 
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-
+-->
